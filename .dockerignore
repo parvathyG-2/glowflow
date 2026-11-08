@@ -1,0 +1,13 @@
+.git
+.gitignore
+.env
+.env.*
+*.db
+*.db-wal
+*.db-shm
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+glowflow/
